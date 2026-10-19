@@ -1,0 +1,63 @@
+intro-to-hackathon.jpg    <- Intro to Hackathon
+python-workshop.jpg    <- Python Workshop
+treasure-hunt-maze-runner.jpg    <- Treasure Hunt: Maze Runner
+cracking-c-from-zero-to-basics.jpg    <- Cracking C: From Zero to Basics
+bim-workshop.jpg    <- BIM Workshop
+revsync-engine-management-tuning.jpg    <- RevSync: Engine Management & Tuning
+robotics-hands-on-workshop.jpg    <- Robotics Hands-on Workshop
+think-tank.jpg    <- Think Tank
+ai-in-civil-engineering.jpg    <- AI in Civil Engineering
+brain2gain-3-0.jpg    <- Brain2Gain 3.0
+the-wall-street-playbook.jpg    <- The Wall Street Playbook
+quantum-realm.jpg    <- Quantum Realm
+verilogix.jpg    <- Verilogix
+pcb-designing-competition.jpg    <- PCB Designing Competition
+probe-patch.jpg    <- Probe & Patch
+terrabyte-project-expo.jpg    <- TerraByte: Project Expo
+macekart.jpg    <- MACEKART
+building-ai-agents.jpg    <- Building AI Agents
+beyond-the-sky-with-angad-pradap.jpg    <- Beyond the Sky with Angad Pradap
+bim-blueprint-workshop.jpg    <- BIM Blueprint Workshop
+melt-and-bond.jpg    <- Melt and Bond
+robo-soccer.jpg    <- Robo Soccer
+ansys-workshop.jpg    <- ANSYS Workshop
+smart-power-grid-workshop.jpg    <- Smart Power Grid Workshop
+re-engineer-reverse-engineering-challenge.jpg    <- Re:Engineer – Reverse Engineering Challenge
+campus-treasure-hunt.jpg    <- Campus Treasure Hunt
+mini-militia-tournament.jpg    <- Mini Militia Tournament
+fpga-xplore.jpg    <- FPGA Xplore
+flutter-workshop.jpg    <- Flutter Workshop
+taksprint.jpg    <- TakSprint
+tinyforge-tinyml-workshop.jpg    <- TinyForge: TinyML Workshop
+e-football-tournament.jpg    <- E-Football Tournament
+carnival.jpg    <- Carnival
+paintball-arena.jpg    <- Paintball Arena
+bgmi-tournament.jpg    <- BGMI Tournament
+introduction-to-robotics.jpg    <- Introduction to Robotics
+art-of-visual-design.jpg    <- Art of Visual Design
+electroquiz.jpg    <- Electroquiz
+techbiz-ideathon.jpg    <- TechBiz Ideathon
+ic-design-concept-to-product.jpg    <- IC Design: Concept to Product
+laser-tag-2-0-showdown.jpg    <- Laser Tag 2.0 Showdown
+firelink-esp32-firebase.jpg    <- FireLink: ESP32 × Firebase
+founder-unfiltered.jpg    <- Founder Unfiltered
+capture-tak-flag.jpg    <- Capture Tak Flag
+root-access-cybersecurity.jpg    <- Root Access: Cybersecurity
+ros-2-workshop.jpg    <- ROS 2 Workshop
+introduction-to-agentic-ai.jpg    <- Introduction to Agentic AI
+image-signal-processing-with-opencv.jpg    <- Image Signal Processing with OpenCV
+pravaha-vibe-coding.jpg    <- Pravaha: Vibe Coding
+vr-workshop.jpg    <- VR Workshop
+disaster-x.jpg    <- Disaster X
+arch-making-competition.jpg    <- Arch Making Competition
+arduino-physical-ai-workshop.jpg    <- Arduino & Physical AI Workshop
+telescope-workshop.jpg    <- Telescope Workshop
+web-arena-web-design-with-ai.jpg    <- Web Arena: Web Design with AI
+vr-world.jpg    <- VR World
+unity-game-development-workshop.jpg    <- Unity Game Development Workshop
+video-editing-workshop.jpg    <- Video Editing Workshop
+figma-workshop.jpg    <- Figma Workshop
+code-rush.jpg    <- Code Rush
+upthrust-competition.jpg    <- Upthrust Competition
+autoverse-mobility-quiz.jpg    <- AutoVerse: Mobility Quiz
+technovate.jpg    <- Technovate

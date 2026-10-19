@@ -1,0 +1,2666 @@
+[
+ {
+  "slug": "intro-to-hackathon",
+  "title": "Intro to Hackathon",
+  "category": "workshop",
+  "organizer": "IEEE Computer Society",
+  "tagline": "Every great project begins with a bold idea.",
+  "description": "Learn how hackathons work, explore ideation and problem-solving, build effective teams and get started with your first hackathon project.",
+  "sessions": [
+   {
+    "start": "2026-09-23T19:00:00+05:30",
+    "end": "2026-09-23T21:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "Online",
+  "online": true,
+  "feeText": "₹30",
+  "feeAmount": 30,
+  "prizePool": null,
+  "activityPoints": "Up to 40",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": null,
+  "contacts": [
+   {
+    "name": "Anuprabha Babu",
+    "phone": "8281595020"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/76dUzjens8R5C45Y6",
+  "tags": [
+   "hackathon"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "python-workshop",
+  "title": "Python Workshop",
+  "category": "workshop",
+  "organizer": "IEEE Computer Society",
+  "tagline": "Code your Ideas. Build the Future.",
+  "description": "Learn Python from the basics and build a strong programming foundation through practical examples and problem-solving.",
+  "sessions": [
+   {
+    "start": "2026-09-24T19:00:00+05:30",
+    "end": "2026-09-24T21:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "Online",
+  "online": true,
+  "feeText": "₹40 / Participant",
+  "feeAmount": 40,
+  "prizePool": null,
+  "activityPoints": "Up to 40",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": null,
+  "contacts": [
+   {
+    "name": "Navneeth Sarat",
+    "phone": "8943736450"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/mhAmdhA8DxpRukYb6",
+  "tags": [
+   "ieeecs"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "treasure-hunt-maze-runner",
+  "title": "Treasure Hunt: Maze Runner",
+  "category": "competition",
+  "organizer": "SAE MACE",
+  "tagline": "Unlock the clues. Conquer the Maze.",
+  "description": "Step into a thrilling adventure inspired by Harry Potter and Maze Runner. Solve clues, crack challenges, navigate the maze and race against time to uncover the hidden treasure!",
+  "sessions": [
+   {
+    "start": "2026-09-26T13:00:00+05:30",
+    "end": "2026-09-26T17:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "MACE Campus",
+  "online": false,
+  "feeText": "₹ 333 / Team",
+  "feeAmount": 333,
+  "prizePool": "₹ 5,000",
+  "activityPoints": "Upto 25",
+  "teamSize": "2 - 4 members",
+  "teamMin": 2,
+  "teamMax": 4,
+  "speaker": null,
+  "registrationDeadline": "25 September 2026",
+  "contacts": [
+   {
+    "name": "Anamika",
+    "phone": "7306614959"
+   },
+   {
+    "name": "Adish",
+    "phone": "9605146682"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/aU6S671Nuh2scy1W7",
+  "tags": [
+   "saemace"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "cracking-c-from-zero-to-basics",
+  "title": "Cracking C: From Zero to Basics",
+  "category": "workshop",
+  "organizer": "ENCIDE MACE",
+  "tagline": null,
+  "description": "ENCIDE MACE presents an exclusive C Programming Workshop as part of TAKSHAK ’26! Build your foundation, master the basics and start coding with confidence.",
+  "sessions": [
+   {
+    "start": "2026-09-25T20:30:00+05:30",
+    "end": "2026-09-25T22:30:00+05:30"
+   }
+  ],
+  "timeNote": "Starts 8:30 PM",
+  "venue": "Online",
+  "online": true,
+  "feeText": "₹99",
+  "feeAmount": 99,
+  "prizePool": null,
+  "activityPoints": "20",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": "25 September 2026 | 7:30 PM",
+  "contacts": [
+   {
+    "name": "Devapriya",
+    "phone": "7736284552"
+   },
+   {
+    "name": "Rojar",
+    "phone": "8086670393"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/uY9g6KXnZ1uKZyNv7",
+  "tags": [
+   "encidemace"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "bim-workshop",
+  "title": "BIM Workshop",
+  "category": "workshop",
+  "organizer": "Civil Engineering",
+  "tagline": "Design Smart. Build Better.",
+  "description": "Get introduced to the world of Building Information Modelling (BIM) through an engaging online workshop designed to build your understanding of modern digital construction and design.",
+  "sessions": [
+   {
+    "start": "2026-09-24T19:00:00+05:30",
+    "end": "2026-09-24T21:00:00+05:30"
+   }
+  ],
+  "timeNote": "Starts 7:00 PM",
+  "venue": "Online",
+  "online": true,
+  "feeText": "Free",
+  "feeAmount": 0,
+  "prizePool": null,
+  "activityPoints": "Up to 30",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": "23 September 2026",
+  "contacts": [
+   {
+    "name": "Zainab",
+    "phone": "8075353767"
+   },
+   {
+    "name": "Sumaya",
+    "phone": "9947159287"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": 90,
+  "formLink": "https://forms.gle/JB8cjJkfasWG1WV68",
+  "tags": [
+   "civilengineering"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "revsync-engine-management-tuning",
+  "title": "RevSync: Engine Management & Tuning",
+  "category": "workshop",
+  "organizer": "SAE MACE × Mechanical Engineering",
+  "tagline": null,
+  "description": "SAE MACE × Mechanical Engineering Department brings you an exciting session on Engine Management & Tuning, featuring a LIVE BMW 3 Series tuning demo!",
+  "sessions": [
+   {
+    "start": "2026-09-25T10:00:00+05:30",
+    "end": "2026-09-25T16:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "Seminar Hall",
+  "online": false,
+  "feeText": "₹ 450",
+  "feeAmount": 450,
+  "prizePool": null,
+  "activityPoints": "Upto 25",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": "24 September 2026",
+  "contacts": [
+   {
+    "name": "Rohit Kuriako Saji",
+    "phone": "9746289279"
+   },
+   {
+    "name": "Navaneeth VS",
+    "phone": "8590869133"
+   },
+   {
+    "name": "Jannath Firoose",
+    "phone": "7356724012"
+   },
+   {
+    "name": "Viswajith",
+    "phone": "7994307702"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/WQtZY3PH8yoPaPGAA",
+  "tags": [
+   "saemace"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "robotics-hands-on-workshop",
+  "title": "Robotics Hands-on Workshop",
+  "category": "workshop",
+  "organizer": "AISA MACE",
+  "tagline": null,
+  "description": "Get hands-on with robotics and turn your ideas into working creations! Presented by AISA MACE, this workshop is designed for teams ready to build, experiment and learn.",
+  "sessions": [
+   {
+    "start": "2026-09-26T09:00:00+05:30",
+    "end": "2026-09-26T16:30:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "Seminar Hall 4",
+  "online": false,
+  "feeText": "₹900/team (₹300/person)",
+  "feeAmount": 300,
+  "prizePool": null,
+  "activityPoints": "40",
+  "teamSize": "3 members",
+  "teamMin": 3,
+  "teamMax": 3,
+  "speaker": null,
+  "registrationDeadline": "25 September 2026",
+  "contacts": [
+   {
+    "name": "Pooja Krishnan",
+    "phone": "9074214765"
+   },
+   {
+    "name": "Treesa Maria Jaimon",
+    "phone": "8590207732"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": 18,
+  "formLink": "https://forms.gle/yKK5C7XzLJjbxFEh9",
+  "tags": [
+   "aisamace"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "think-tank",
+  "title": "Think Tank",
+  "category": "competition",
+  "organizer": null,
+  "tagline": "Think. Present. Inspire.",
+  "description": "A space for bold ideas and fresh thinking. Present your perspectives, explore emerging technologies and spark conversations beyond the ordinary!",
+  "sessions": [
+   {
+    "start": "2026-09-25T13:00:00+05:30",
+    "end": "2026-09-25T17:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "M19",
+  "online": false,
+  "feeText": "₹ 800",
+  "feeAmount": 800,
+  "prizePool": "₹ 10,000",
+  "activityPoints": "Upto 20",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": "24 September 2026 | 12:00 PM",
+  "contacts": [
+   {
+    "name": "Aparna",
+    "phone": "7736418818"
+   },
+   {
+    "name": "Anamika",
+    "phone": "7306614959"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/tP7ZNCFvxf9EuHA67",
+  "tags": [],
+  "registrationOpen": true
+ },
+ {
+  "slug": "ai-in-civil-engineering",
+  "title": "AI in Civil Engineering",
+  "category": "workshop",
+  "organizer": "Civil Engineering",
+  "tagline": null,
+  "description": "Explore the role of AI in Civil Engineering and discover its applications in the future of construction and infrastructure!",
+  "sessions": [
+   {
+    "start": "2026-09-23T19:00:00+05:30",
+    "end": "2026-09-23T21:00:00+05:30"
+   }
+  ],
+  "timeNote": "Starts 7:00 PM",
+  "venue": "Online",
+  "online": true,
+  "feeText": "Free",
+  "feeAmount": 0,
+  "prizePool": null,
+  "activityPoints": "Upto 30",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": "23 September 2026",
+  "contacts": [
+   {
+    "name": "Meghachandra",
+    "phone": "7306038992"
+   },
+   {
+    "name": "Jena",
+    "phone": "7012236874"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": 90,
+  "formLink": "https://forms.gle/BVLvusxQt8esxExh9",
+  "tags": [],
+  "registrationOpen": true
+ },
+ {
+  "slug": "brain2gain-3-0",
+  "title": "Brain2Gain 3.0",
+  "category": "competition",
+  "organizer": "ISTE MACE",
+  "tagline": null,
+  "description": "A fast-paced quiz-style puzzle challenge by ISTE MACE as part of Takshak'26. Race against time, solve tricky puzzles and put your thinking to the test!",
+  "sessions": [
+   {
+    "start": "2026-09-25T15:30:00+05:30",
+    "end": "2026-09-25T17:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "M111",
+  "online": false,
+  "feeText": "For teams with 1 ISTE member - ₹ 40 | For teams without 1 ISTE members - ₹ 60",
+  "feeAmount": 40,
+  "prizePool": "₹ 1,000",
+  "activityPoints": "Upto 30",
+  "teamSize": "2 members",
+  "teamMin": 2,
+  "teamMax": 2,
+  "speaker": null,
+  "registrationDeadline": "24 September 2026",
+  "contacts": [
+   {
+    "name": "Anolit",
+    "phone": "9207106566"
+   },
+   {
+    "name": "Liya",
+    "phone": "8304880628"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/GsyS67F4vAF8HdW29",
+  "tags": [
+   "istemace"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "the-wall-street-playbook",
+  "title": "The Wall Street Playbook",
+  "category": "event",
+  "organizer": "IEDC × EF Hult Prize",
+  "tagline": "Decode the Market. Master Your Money.",
+  "description": "Curious about how the financial markets work? Join us for The Wall Street Playbook, an investor awareness program designed to introduce you to the world of investing, financial markets, and smarter money decisions.",
+  "sessions": [
+   {
+    "start": "2026-09-26T09:00:00+05:30",
+    "end": "2026-09-26T10:30:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "Seminar Hall 2",
+  "online": false,
+  "feeText": "₹99",
+  "feeAmount": 99,
+  "prizePool": null,
+  "activityPoints": "Up to 30",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": "Ajayan P. P.",
+  "registrationDeadline": "25 September 2026",
+  "contacts": [
+   {
+    "name": "Harsha",
+    "phone": "9946000075"
+   },
+   {
+    "name": "Faheem",
+    "phone": "7012905362"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/gQcqikPtjqN1JEvi6",
+  "tags": [
+   "TheWallStreetPlaybook",
+   "InvestorAwareness",
+   "IEDC",
+   "EFHultPrize",
+   "Investing"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "quantum-realm",
+  "title": "Quantum Realm",
+  "category": "event",
+  "organizer": "ENCIDE × Electronics & Communication",
+  "tagline": "Enter the Quantum Realm. Explore the Future.",
+  "description": "Curious about the technology shaping the future of computing? Step into the world of Quantum Computing and explore its fascinating concepts, possibilities, and real-world applications through an engaging talk session.",
+  "sessions": [
+   {
+    "start": "2026-09-25T11:00:00+05:30",
+    "end": "2026-09-25T12:30:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "L09",
+  "online": false,
+  "feeText": "₹189",
+  "feeAmount": 189,
+  "prizePool": null,
+  "activityPoints": "Up to 30",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": "24 September 2026",
+  "contacts": [
+   {
+    "name": "Haritheerth",
+    "phone": "91938349369"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/MKoA4PzG62rfYVyS6",
+  "tags": [
+   "QuantumRealm",
+   "QuantumComputing",
+   "ENCIDE",
+   "TechTalk"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "verilogix",
+  "title": "Verilogix",
+  "category": "workshop",
+  "organizer": "Electronics & Communication",
+  "tagline": "Code the Hardware. Shape the Future.",
+  "description": "Ready to step into the world of hardware description and digital design? Join us for an engaging session on Verilog Programming and explore the fundamentals of designing and programming digital systems.",
+  "sessions": [
+   {
+    "start": "2026-09-25T10:00:00+05:30",
+    "end": "2026-09-25T12:00:00+05:30"
+   }
+  ],
+  "timeNote": "Starts 10:00 AM",
+  "venue": "L108",
+  "online": false,
+  "feeText": "₹50",
+  "feeAmount": 50,
+  "prizePool": null,
+  "activityPoints": "Up to 20",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": "24 September 2026",
+  "contacts": [
+   {
+    "name": "Azad",
+    "phone": "9497426122"
+   },
+   {
+    "name": "Niranj",
+    "phone": "8547641112"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/geiPN1QJrUZJ2MM27",
+  "tags": [
+   "Verilogix",
+   "Verilog",
+   "VerilogProgramming",
+   "ECE",
+   "DigitalDesign"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "pcb-designing-competition",
+  "title": "PCB Designing Competition",
+  "category": "competition",
+  "organizer": "Electronics & Communication",
+  "tagline": "Design It. Build It. Bring Ideas to Life.",
+  "description": "Ready to put your electronics and circuit design skills to the test? Take on the challenge, showcase your creativity, and compete to create innovative PCB designs.",
+  "sessions": [
+   {
+    "start": "2026-09-26T10:00:00+05:30",
+    "end": "2026-09-26T16:00:00+05:30"
+   }
+  ],
+  "timeNote": "Time to be announced",
+  "venue": "To be announced",
+  "online": false,
+  "feeText": "₹40",
+  "feeAmount": 40,
+  "prizePool": "₹1,500",
+  "activityPoints": null,
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": null,
+  "contacts": [
+   {
+    "name": "Rojar",
+    "phone": "8086670393"
+   },
+   {
+    "name": "Abhinav",
+    "phone": "7510651863"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/1yjaHoFzGU3iECSd6",
+  "tags": [
+   "PCBDesigning",
+   "PCBDesign",
+   "ECE",
+   "Electronics",
+   "DesignCompetition"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "probe-patch",
+  "title": "Probe & Patch",
+  "category": "competition",
+  "organizer": "Electronics & Communication",
+  "tagline": "Find the fault. Fix the circuit. Beat the clock.",
+  "description": "Put your circuit-debugging skills to the test! Identify and fix errors in the circuits presented and race against time to find the solution.",
+  "sessions": [
+   {
+    "start": "2026-09-25T20:00:00+05:30",
+    "end": "2026-09-25T21:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "Online",
+  "online": true,
+  "feeText": "₹ 20",
+  "feeAmount": 20,
+  "prizePool": "₹ 1,000",
+  "activityPoints": null,
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": "24 September 2026",
+  "contacts": [
+   {
+    "name": "Alwafa",
+    "phone": "9207458276"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/UCPWMnrEPGF3NzfP9",
+  "tags": [
+   "ece"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "terrabyte-project-expo",
+  "title": "TerraByte: Project Expo",
+  "category": "competition",
+  "organizer": "Computer Science & Engineering",
+  "tagline": "Build. Innovate. Showcase.",
+  "description": "Have an innovative project idea? Bring your creativity and technical skills to the spotlight at TerraByte, a project expo competition where ideas turn into impactful solutions.",
+  "sessions": [
+   {
+    "start": "2026-09-25T09:00:00+05:30",
+    "end": "2026-09-25T17:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "To be announced",
+  "online": false,
+  "feeText": "₹200/if shortlisted",
+  "feeAmount": 200,
+  "prizePool": "₹20,000",
+  "activityPoints": "Up to 30",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": "24 September 2026",
+  "contacts": [
+   {
+    "name": "Dikshit",
+    "phone": "6282330738"
+   },
+   {
+    "name": "Syamraj",
+    "phone": "8590284535"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/kHKaMzi8t56bBQw46",
+  "tags": [
+   "TerraByte",
+   "ProjectExpo",
+   "ProjectCompetition",
+   "CSE",
+   "Innovation"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "macekart",
+  "title": "MACEKART",
+  "category": "event",
+  "organizer": "IEDC MACE",
+  "tagline": null,
+  "description": "Takshak’26 IEDC MACE brings you a vibrant space to turn your ideas into reality!",
+  "sessions": [
+   {
+    "start": "2026-09-25T10:00:00+05:30",
+    "end": "2026-09-25T16:00:00+05:30"
+   },
+   {
+    "start": "2026-09-26T10:00:00+05:30",
+    "end": "2026-09-26T16:00:00+05:30"
+   }
+  ],
+  "timeNote": "Full day",
+  "venue": "Principal's Parking Lot",
+  "online": false,
+  "feeText": "Stall registration via form",
+  "feeAmount": null,
+  "prizePool": null,
+  "activityPoints": null,
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": "24 September 2026",
+  "contacts": [
+   {
+    "name": "Dilruba",
+    "phone": "9072505326"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/EmzgkTsaui1iCswg6",
+  "tags": [
+   "iedcmace"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "building-ai-agents",
+  "title": "Building AI Agents",
+  "category": "workshop",
+  "organizer": "Computer Science & Engineering",
+  "tagline": null,
+  "description": "The Department of Computer Science and Engineering, in association with Takshak'26, presents an exciting hands-on session on Building AI Agents.",
+  "sessions": [
+   {
+    "start": "2026-09-25T09:30:00+05:30",
+    "end": "2026-09-25T11:30:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "L314",
+  "online": false,
+  "feeText": "Free",
+  "feeAmount": 0,
+  "prizePool": null,
+  "activityPoints": "Upto 40",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": "24 September 2026 | 5:00 PM",
+  "contacts": [
+   {
+    "name": "Muhammed Haroon",
+    "phone": "9995545971"
+   },
+   {
+    "name": "Muhammed Sahil",
+    "phone": "8590697214"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/Aaasu8RxN7CpLtSd7",
+  "tags": [
+   "𝘮𝘢𝘤𝘦",
+   "𝘵𝘢𝘬𝘴𝘩𝘢𝘬"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "beyond-the-sky-with-angad-pradap",
+  "title": "Beyond the Sky with Angad Pradap",
+  "category": "event",
+  "organizer": null,
+  "tagline": null,
+  "description": "TAKSHAK’26 brings you an interactive session exploring human spaceflight, the journey beyond Earth and the experiences and challenges of space exploration.",
+  "sessions": [
+   {
+    "start": "2026-09-25T11:00:00+05:30",
+    "end": "2026-09-25T12:30:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "Seminar Hall 2",
+  "online": false,
+  "feeText": "Free",
+  "feeAmount": 0,
+  "prizePool": null,
+  "activityPoints": "Upto 30",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": "24 September 2026 | 11:00 PM",
+  "contacts": [
+   {
+    "name": "Aswini P",
+    "phone": "8848016923"
+   },
+   {
+    "name": "Anjana P",
+    "phone": "7736791323"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/zwQAVD2nfz7AT7Rn6",
+  "tags": [],
+  "registrationOpen": true
+ },
+ {
+  "slug": "bim-blueprint-workshop",
+  "title": "BIM Blueprint Workshop",
+  "category": "workshop",
+  "organizer": "Mechanical Engineering × ISHRAE MACE",
+  "tagline": "Bridge the gap between design and reality.",
+  "description": "Learn Revit, Navisworks and real-world BIM applications from industry experts and take your design skills to the next level!",
+  "sessions": [
+   {
+    "start": "2026-09-25T14:00:00+05:30",
+    "end": "2026-09-25T17:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "MCA Seminar Hall",
+  "online": false,
+  "feeText": "₹ 89",
+  "feeAmount": 89,
+  "prizePool": null,
+  "activityPoints": "Up to 40",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": null,
+  "contacts": [],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/xDWEMfT96m6F2wii6",
+  "tags": [
+   "ishraemace"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "melt-and-bond",
+  "title": "Melt and Bond",
+  "category": "competition",
+  "organizer": "Electronics & Communication × ISTE",
+  "tagline": null,
+  "description": "ECE × ISTE presents a hands-on Soldering Competition! Test your speed, precision, neatness and circuit-building skills as you solder components onto a Zero PCB.",
+  "sessions": [
+   {
+    "start": "2026-09-26T09:30:00+05:30",
+    "end": "2026-09-26T11:30:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "Digital Electronics Lab, ECE Block",
+  "online": false,
+  "feeText": "Teams with 1 ISTE member - ₹ 90 | Teams without ISTE Members : ₹ 120",
+  "feeAmount": 90,
+  "prizePool": "₹ 1,500",
+  "activityPoints": "Upto 40",
+  "teamSize": "2 members",
+  "teamMin": 2,
+  "teamMax": 2,
+  "speaker": null,
+  "registrationDeadline": "25 September 2026",
+  "contacts": [
+   {
+    "name": "Samuel",
+    "phone": "8075258045"
+   },
+   {
+    "name": "Ashna",
+    "phone": "8547567441"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/Uh81wY39QdLSbro46",
+  "tags": [
+   "istemace",
+   "ece"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "robo-soccer",
+  "title": "Robo Soccer",
+  "category": "competition",
+  "organizer": "ASME MACE",
+  "tagline": "Buld the Bot. Control the Game. Own the Field.",
+  "description": "Get ready for an exciting robotic soccer showdown where strategy, engineering and control come together. Build your bot, master the field and compete for victory!",
+  "sessions": [
+   {
+    "start": "2026-09-26T13:00:00+05:30",
+    "end": "2026-09-26T15:00:00+05:30"
+   }
+  ],
+  "timeNote": "Starts 1:00 PM",
+  "venue": "Badminton Court",
+  "online": false,
+  "feeText": "₹ 100 / Team",
+  "feeAmount": 100,
+  "prizePool": "₹ 12,000",
+  "activityPoints": "25",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": "24 September 2026",
+  "contacts": [
+   {
+    "name": "Ashhar",
+    "phone": "8891207115"
+   },
+   {
+    "name": "Naseef",
+    "phone": "9633404904"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/vped9PfWFmQLFSr79",
+  "tags": [
+   "asmemace"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "ansys-workshop",
+  "title": "ANSYS Workshop",
+  "category": "workshop",
+  "organizer": "Mechanical Engineering",
+  "tagline": "Design smarter. Simulate better.",
+  "description": "Dive into the world of engineering simulation and explore the fundamentals of ANSYS through an engaging workshop by the Department of Mechanical Engineering!",
+  "sessions": [
+   {
+    "start": "2026-09-25T14:00:00+05:30",
+    "end": "2026-09-25T16:00:00+05:30"
+   }
+  ],
+  "timeNote": "Starts 2:00 PM",
+  "venue": "Seminar Hall 2",
+  "online": false,
+  "feeText": "₹ 150",
+  "feeAmount": 150,
+  "prizePool": null,
+  "activityPoints": "Up to 30",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": "25 September 2026",
+  "contacts": [
+   {
+    "name": "Naseef",
+    "phone": "9633404904"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/eHMjHsNSKpzW7GE29",
+  "tags": [
+   "mechanicalengineering"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "smart-power-grid-workshop",
+  "title": "Smart Power Grid Workshop",
+  "category": "workshop",
+  "organizer": "IEEE MACE × EEE",
+  "tagline": "Power the future. Build smarter grids.",
+  "description": "Get hands-on with the fundamentals and applications of Smart Power Grids in this interactive workshop by IEEE MACE EEE Department !",
+  "sessions": [
+   {
+    "start": "2026-09-25T14:00:00+05:30",
+    "end": "2026-09-25T16:00:00+05:30"
+   }
+  ],
+  "timeNote": "Starts 2:00 PM",
+  "venue": "TNP Seminar Hall",
+  "online": false,
+  "feeText": "IEEE Members - ₹ 75 | Non-IEEE Members - ₹ 120",
+  "feeAmount": 75,
+  "prizePool": null,
+  "activityPoints": "Upto 40",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": "25 September 2026",
+  "contacts": [
+   {
+    "name": "Hridhya",
+    "phone": "6282398770"
+   },
+   {
+    "name": "Adwaith",
+    "phone": "9447534755"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/WTLLbqEAopFcZRYx6",
+  "tags": [
+   "ieeemace"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "re-engineer-reverse-engineering-challenge",
+  "title": "Re:Engineer – Reverse Engineering Challenge",
+  "category": "competition",
+  "organizer": "Mechanical Engineering",
+  "tagline": "Observe. Decode. Recreate.",
+  "description": "RE:ENGINEER challenges you to analyse a real-world component and recreate its geometry accurately using AutoCAD. Test your observation, precision, engineering intuition and CAD skills!",
+  "sessions": [
+   {
+    "start": "2026-09-26T14:00:00+05:30",
+    "end": "2026-09-26T17:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "IT Center CAD Lab",
+  "online": false,
+  "feeText": "₹ 200",
+  "feeAmount": 200,
+  "prizePool": "₹ 8,000",
+  "activityPoints": "Upto 20",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": "24 September 2026",
+  "contacts": [
+   {
+    "name": "Kasinath C",
+    "phone": "8590798189"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/VDQN2gxRfSegrrE98",
+  "tags": [
+   "mechanicalengineering"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "campus-treasure-hunt",
+  "title": "Campus Treasure Hunt",
+  "category": "competition",
+  "organizer": null,
+  "tagline": "Follow the clues. Find the treasure.",
+  "description": "Get ready for an exciting adventure filled with clues, challenges and surprises! Team up, think smart and race across the MACE Campus to uncover the hidden treasure!",
+  "sessions": [
+   {
+    "start": "2026-09-26T14:30:00+05:30",
+    "end": "2026-09-26T16:30:00+05:30"
+   }
+  ],
+  "timeNote": "Starts 2:30 PM",
+  "venue": "MACE Campus",
+  "online": false,
+  "feeText": "₹ 200",
+  "feeAmount": 200,
+  "prizePool": "₹ 2,500",
+  "activityPoints": null,
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": "26 September 2026",
+  "contacts": [
+   {
+    "name": "Ananya Babu",
+    "phone": "8086366157"
+   },
+   {
+    "name": "Essabella Vinod",
+    "phone": "7736582486"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/Nq7pFN2WzvadugDg6",
+  "tags": [],
+  "registrationOpen": true
+ },
+ {
+  "slug": "mini-militia-tournament",
+  "title": "Mini Militia Tournament",
+  "category": "competition",
+  "organizer": null,
+  "tagline": null,
+  "description": "TAKSHAK ’26 presents an action-packed Mini Militia Tournament! Get ready to battle it out, sharpen your aim and fight your way to the top!",
+  "sessions": [
+   {
+    "start": "2026-09-25T14:00:00+05:30",
+    "end": "2026-09-25T16:00:00+05:30"
+   }
+  ],
+  "timeNote": "Starts 2:00 PM",
+  "venue": "M119",
+  "online": false,
+  "feeText": "₹ 40",
+  "feeAmount": 40,
+  "prizePool": "Full Mandhi",
+  "activityPoints": null,
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": "24 September 2026",
+  "contacts": [
+   {
+    "name": "Akash",
+    "phone": "7012311717"
+   },
+   {
+    "name": "Febin",
+    "phone": "6235289750"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/wJgtyZ9s7kcfpxfW7",
+  "tags": [],
+  "registrationOpen": true
+ },
+ {
+  "slug": "fpga-xplore",
+  "title": "FPGA Xplore",
+  "category": "workshop",
+  "organizer": "Electronics & Communication × IoT",
+  "tagline": null,
+  "description": "ECE Department IoT presents a hands-on FPGA workshop where you can explore FPGA-based digital design through practical experience!",
+  "sessions": [
+   {
+    "start": "2026-09-26T12:00:00+05:30",
+    "end": "2026-09-26T17:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "MCA Seminar Hall",
+  "online": false,
+  "feeText": "IoT Members - ₹ 250 | Non - IoT members - ₹ 300",
+  "feeAmount": 250,
+  "prizePool": null,
+  "activityPoints": "Upto 30",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": "Alan John Francis",
+  "registrationDeadline": "24 September 2026",
+  "contacts": [
+   {
+    "name": "Sooraj N S",
+    "phone": "8304811633"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/QoERC3LrYUm7XbQ76",
+  "tags": [
+   "ece",
+   "iot"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "flutter-workshop",
+  "title": "Flutter Workshop",
+  "category": "workshop",
+  "organizer": "ISTE MACE",
+  "tagline": null,
+  "description": "ISTE MACE presents an exciting Flutter Workshop a hands-on session introducing you to Flutter and the fundamentals of cross-platform app development.",
+  "sessions": [
+   {
+    "start": "2026-09-25T09:00:00+05:30",
+    "end": "2026-09-25T13:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "CS Lab",
+  "online": false,
+  "feeText": "ISTE members - ₹ 120 | Non - ISTE members - ₹ 150",
+  "feeAmount": 120,
+  "prizePool": null,
+  "activityPoints": "Upto 40",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": "24 September 2026 | 11:59 PM",
+  "contacts": [
+   {
+    "name": "Sreerag",
+    "phone": "7306769096"
+   },
+   {
+    "name": "Deeya Saju",
+    "phone": "9496177329"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/rvAJhhMzhSmnnviPA",
+  "tags": [
+   "istemace"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "taksprint",
+  "title": "TakSprint",
+  "category": "competition",
+  "organizer": "Computer Science & Engineering",
+  "tagline": "Code Fast. Think Sharp. Sprint Ahead.",
+  "description": "Get ready for an intense coding challenge where speed, logic, and problem-solving come together! Put your programming skills to the test, tackle challenging problems, and compete for a share of the ₹20K prize pool.",
+  "sessions": [
+   {
+    "start": "2026-09-26T10:00:00+05:30",
+    "end": "2026-09-26T12:00:00+05:30"
+   },
+   {
+    "start": "2026-09-26T14:00:00+05:30",
+    "end": "2026-09-26T16:30:00+05:30"
+   }
+  ],
+  "timeNote": "Two stages: 10:00 AM–12:00 PM and 2:00–4:30 PM",
+  "venue": "L203, L204",
+  "online": false,
+  "feeText": "₹120 per participant",
+  "feeAmount": 120,
+  "prizePool": "₹20,000",
+  "activityPoints": null,
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": null,
+  "contacts": [
+   {
+    "name": "Ivan",
+    "phone": "9207906542"
+   },
+   {
+    "name": "Devadathan",
+    "phone": "6238463653"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://shorturl.at/QSnMB",
+  "tags": [
+   "TAKSPRINT",
+   "CSE",
+   "CodingChallenge",
+   "Programming"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "tinyforge-tinyml-workshop",
+  "title": "TinyForge: TinyML Workshop",
+  "category": "workshop",
+  "organizer": "Electronics & Communication × IoT",
+  "tagline": null,
+  "description": "ECE × IoT presents a hands-on TinyML workshop to explore machine learning on resource-constrained devices and build smarter edge solutions!",
+  "sessions": [
+   {
+    "start": "2026-09-25T09:30:00+05:30",
+    "end": "2026-09-25T16:30:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "L03",
+  "online": false,
+  "feeText": "Members - ₹ 250 | Non-members - ₹ 300",
+  "feeAmount": 250,
+  "prizePool": null,
+  "activityPoints": "Up to 30",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": "24 September 2026",
+  "contacts": [
+   {
+    "name": "Devadathan",
+    "phone": "6238463653"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/HKuV36mFATgJgLD57",
+  "tags": [
+   "rakshak",
+   "ece",
+   "iot"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "e-football-tournament",
+  "title": "E-Football Tournament",
+  "category": "competition",
+  "organizer": null,
+  "tagline": "Play hard. Score big. Own the game.",
+  "description": "Get ready to showcase your football skills in an exciting online E-Football tournament as part of TAKSHAK’26!",
+  "sessions": [
+   {
+    "start": "2026-09-25T19:00:00+05:30",
+    "end": "2026-09-25T21:00:00+05:30"
+   }
+  ],
+  "timeNote": "Starts 7:00 PM",
+  "venue": "Online",
+  "online": true,
+  "feeText": "₹ 50",
+  "feeAmount": 50,
+  "prizePool": "₹ 1,000",
+  "activityPoints": null,
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": null,
+  "contacts": [
+   {
+    "name": "Shibin",
+    "phone": "9995056294"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/yC6K1TuuBBHtpPws5",
+  "tags": [],
+  "registrationOpen": true
+ },
+ {
+  "slug": "carnival",
+  "title": "Carnival",
+  "category": "event",
+  "organizer": null,
+  "tagline": "Come for the vibe. Stay for the fun!",
+  "description": "Get ready for a fun-filled carnival at TAKSHAK’26! Enjoy exciting activities, games, food and a vibrant atmosphere with something for everyone!",
+  "sessions": [
+   {
+    "start": "2026-09-25T10:00:00+05:30",
+    "end": "2026-09-25T16:00:00+05:30"
+   },
+   {
+    "start": "2026-09-26T10:00:00+05:30",
+    "end": "2026-09-26T16:00:00+05:30"
+   }
+  ],
+  "timeNote": "Full day",
+  "venue": "Basketball Court 1",
+  "online": false,
+  "feeText": "Spot registration only",
+  "feeAmount": null,
+  "prizePool": null,
+  "activityPoints": null,
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": null,
+  "contacts": [
+   {
+    "name": "Tojo",
+    "phone": "8590544451"
+   },
+   {
+    "name": "Akash",
+    "phone": "7012311717"
+   }
+  ],
+  "spotRegistration": true,
+  "capacity": null,
+  "formLink": null,
+  "tags": [
+   "carnival"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "paintball-arena",
+  "title": "Paintball Arena",
+  "category": "competition",
+  "organizer": null,
+  "tagline": "Aim sharp. Shoot fast. Own the battlefield!",
+  "description": "Gear up for an adrenaline-filled paintball battle at TAKSHAK’26! Team up, take cover and put your strategy and reflexes to the test!",
+  "sessions": [
+   {
+    "start": "2026-09-25T09:00:00+05:30",
+    "end": "2026-09-25T12:00:00+05:30"
+   }
+  ],
+  "timeNote": "Starts 9:00 AM onwards",
+  "venue": "Basketball Court 3",
+  "online": false,
+  "feeText": "₹ 120 / head",
+  "feeAmount": 120,
+  "prizePool": null,
+  "activityPoints": null,
+  "teamSize": "3 members",
+  "teamMin": 3,
+  "teamMax": 3,
+  "speaker": null,
+  "registrationDeadline": null,
+  "contacts": [
+   {
+    "name": "Tojo",
+    "phone": "8590544451"
+   },
+   {
+    "name": "Febin",
+    "phone": "6235289750"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": 50,
+  "formLink": "https://forms.gle/EKnGWrkxwywGvHFK7",
+  "tags": [],
+  "registrationOpen": true
+ },
+ {
+  "slug": "bgmi-tournament",
+  "title": "BGMI Tournament",
+  "category": "competition",
+  "organizer": null,
+  "tagline": null,
+  "description": "Get ready for an intense battle royale showdown at TAKSHAK’26! Team up, strategize and fight your way to the top!",
+  "sessions": [
+   {
+    "start": "2026-09-25T20:30:00+05:30",
+    "end": "2026-09-25T22:30:00+05:30"
+   }
+  ],
+  "timeNote": "Starts 8:30 PM",
+  "venue": "Online",
+  "online": true,
+  "feeText": "₹ 120",
+  "feeAmount": 120,
+  "prizePool": "₹ 1,500",
+  "activityPoints": null,
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": null,
+  "contacts": [
+   {
+    "name": "Shibin A",
+    "phone": "9995056294"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/a2cucFwTGaMKpMUGA",
+  "tags": [],
+  "registrationOpen": true
+ },
+ {
+  "slug": "introduction-to-robotics",
+  "title": "Introduction to Robotics",
+  "category": "workshop",
+  "organizer": "Mechanical Engineering",
+  "tagline": "Imagine. Build. Automate.",
+  "description": "Step into the world of robotics and explore the fundamentals of robotic systems, automation and their real-world applications!",
+  "sessions": [
+   {
+    "start": "2026-09-26T15:30:00+05:30",
+    "end": "2026-09-26T17:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "PTA Seminar Hall",
+  "online": false,
+  "feeText": "₹ 99",
+  "feeAmount": 99,
+  "prizePool": null,
+  "activityPoints": "Upto 30",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": "25 September 2026",
+  "contacts": [
+   {
+    "name": "Devika K A",
+    "phone": "9778472002"
+   },
+   {
+    "name": "Chriswin",
+    "phone": "9745898215"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/N6pNdNX9RWJRAmJo8",
+  "tags": [
+   "mechanicalengineering"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "art-of-visual-design",
+  "title": "Art of Visual Design",
+  "category": "workshop",
+  "organizer": "MACE Film Society",
+  "tagline": "See differently. Create boldly.",
+  "description": "MACE Film Society presents an engaging workshop on Visual Design, exploring the art of creating impactful visuals, developing creative ideas and communicating through design!",
+  "sessions": [
+   {
+    "start": "2026-09-25T15:30:00+05:30",
+    "end": "2026-09-25T16:30:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "PTA Seminar Hall",
+  "online": false,
+  "feeText": "₹ 99",
+  "feeAmount": 99,
+  "prizePool": null,
+  "activityPoints": null,
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": "25 September 2026",
+  "contacts": [
+   {
+    "name": "Tessa",
+    "phone": "9495400633"
+   },
+   {
+    "name": "Meera",
+    "phone": "7994520134"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/zi1SCh1TR1Qnf8tf8",
+  "tags": [
+   "macefilmsociety"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "electroquiz",
+  "title": "Electroquiz",
+  "category": "competition",
+  "organizer": "Electrical & Electronics",
+  "tagline": "Charge your mind. Power your knowledge!",
+  "description": "EEE Department presents an exciting quiz challenge to test your knowledge of electrical and electronic concepts",
+  "sessions": [
+   {
+    "start": "2026-09-25T10:00:00+05:30",
+    "end": "2026-09-25T12:30:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "M123",
+  "online": false,
+  "feeText": "₹ 100 / team",
+  "feeAmount": 100,
+  "prizePool": "₹ 5,000",
+  "activityPoints": "10",
+  "teamSize": "2 members",
+  "teamMin": 2,
+  "teamMax": 2,
+  "speaker": null,
+  "registrationDeadline": "24 September 2026",
+  "contacts": [
+   {
+    "name": "Dhivin",
+    "phone": "8590562091"
+   },
+   {
+    "name": "Vrinda",
+    "phone": "9400660813"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/Ls2mTLvKx9dxt6d19",
+  "tags": [
+   "eee"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "techbiz-ideathon",
+  "title": "TechBiz Ideathon",
+  "category": "competition",
+  "organizer": "IEDC MACE",
+  "tagline": null,
+  "description": "Presented by IEDC as a part of Takshak'26 , Techbiz is an exciting Ideathon where bold ideas turn into innovative solutions!",
+  "sessions": [
+   {
+    "start": "2026-09-25T12:30:00+05:30",
+    "end": "2026-09-25T15:30:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "PTA Seminar Hall",
+  "online": false,
+  "feeText": "₹ 99",
+  "feeAmount": 99,
+  "prizePool": "₹ 5,000",
+  "activityPoints": "Upto 20",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": "24 September 2026",
+  "contacts": [
+   {
+    "name": "Esha Alex",
+    "phone": "9496265639"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/FD6fNu5qJP3tGf567",
+  "tags": [
+   "iedcmace"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "ic-design-concept-to-product",
+  "title": "IC Design: Concept to Product",
+  "category": "event",
+  "organizer": "Electronics & Communication",
+  "tagline": "From silicon to systems  discover how ideas become ICs.",
+  "description": "ECE presents an insightful technical talk exploring how Integrated Circuits are designed and developed from scratch, taking you through the journey from concept to a finished product.",
+  "sessions": [
+   {
+    "start": "2026-09-25T19:00:00+05:30",
+    "end": "2026-09-25T20:30:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "Google Meet",
+  "online": true,
+  "feeText": "Free",
+  "feeAmount": 0,
+  "prizePool": null,
+  "activityPoints": null,
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": null,
+  "contacts": [
+   {
+    "name": "Anushree",
+    "phone": "7561853380"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/Cr8rru2SKVJpjctk8",
+  "tags": [
+   "ece"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "laser-tag-2-0-showdown",
+  "title": "Laser Tag 2.0 Showdown",
+  "category": "competition",
+  "organizer": "Computer Science & Engineering",
+  "tagline": "Real-time PvP. Zero latency. Pure adrenaline.",
+  "description": "Step into an open-air combat sector. Flank the opposition, paint your targets, and claim the arena in the ultimate test of split-second reflexes and squad tactics.",
+  "sessions": [
+   {
+    "start": "2026-09-25T09:00:00+05:30",
+    "end": "2026-09-25T17:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "Open-air arena (venue TBA)",
+  "online": false,
+  "feeText": "₹ 299 / team",
+  "feeAmount": 299,
+  "prizePool": null,
+  "activityPoints": null,
+  "teamSize": "3 members",
+  "teamMin": 3,
+  "teamMax": 3,
+  "speaker": null,
+  "registrationDeadline": null,
+  "contacts": [
+   {
+    "name": "Dinil",
+    "phone": "9207871505"
+   },
+   {
+    "name": "Abhijith",
+    "phone": "8891161518"
+   }
+  ],
+  "spotRegistration": true,
+  "capacity": null,
+  "formLink": "https://forms.gle/edVAG8RdzvjrbWkx5",
+  "tags": [],
+  "registrationOpen": true
+ },
+ {
+  "slug": "firelink-esp32-firebase",
+  "title": "FireLink: ESP32 × Firebase",
+  "category": "workshop",
+  "organizer": "Electronics & Communication × IoT",
+  "tagline": null,
+  "description": "ECE Department IoT brings you a hands-on IoT workshop where you’ll learn to connect an ESP32 to Firebase and build a live web dashboard for real-time data monitoring and device control!",
+  "sessions": [
+   {
+    "start": "2026-09-25T10:00:00+05:30",
+    "end": "2026-09-25T13:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "TNP Seminar Hall",
+  "online": false,
+  "feeText": "IoT Members – ₹ 200 | Non-members – ₹ 300",
+  "feeAmount": 200,
+  "prizePool": null,
+  "activityPoints": "Up to 30",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": "24 September 2026",
+  "contacts": [
+   {
+    "name": "Samuel M Dileep",
+    "phone": "8075258045"
+   },
+   {
+    "name": "Augustine",
+    "phone": "9447979882"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/DNTQbcS4SWRzFr6z6",
+  "tags": [
+   "ece",
+   "iot"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "founder-unfiltered",
+  "title": "Founder Unfiltered",
+  "category": "event",
+  "organizer": "Computer Science & Engineering",
+  "tagline": "Ideas Start Small. Vision Builds Big.",
+  "description": "Get ready for an engaging podcast-style talk session featuring a startup founder! Join us for an insightful conversation covering entrepreneurship, startup journeys, challenges, innovation, and the realities behind building a venture.",
+  "sessions": [
+   {
+    "start": "2026-09-25T13:00:00+05:30",
+    "end": "2026-09-25T14:30:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "Seminar Hall 2",
+  "online": false,
+  "feeText": "₹30 for non-MACE students | Free for MACE students",
+  "feeAmount": 30,
+  "prizePool": null,
+  "activityPoints": null,
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": "Augustine Vadakumchery",
+  "registrationDeadline": null,
+  "contacts": [
+   {
+    "name": "Megha Baiju",
+    "phone": "9074802040"
+   },
+   {
+    "name": "Ivan",
+    "phone": "9207906542"
+   },
+   {
+    "name": "Devadathan",
+    "phone": "6238463653"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/ayJHuNQJV2pkrhnu8",
+  "tags": [],
+  "registrationOpen": true
+ },
+ {
+  "slug": "capture-tak-flag",
+  "title": "Capture Tak Flag",
+  "category": "competition",
+  "organizer": "Computer Science & Engineering",
+  "tagline": "Find the Flag. Crack the Code. Capture the Tak.",
+  "description": "Get ready for an intense Capture the Flag competition where hacking, logic, and problem-solving come together! Put your cybersecurity skills to the test, solve challenging challenges, uncover hidden flags, and compete for a share of the ₹3K prize pool.",
+  "sessions": [
+   {
+    "start": "2026-09-25T20:00:00+05:30",
+    "end": "2026-09-25T22:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "Online",
+  "online": true,
+  "feeText": "₹40 per participant for 3-member teams, ₹70 per participant for 1–2 member teams",
+  "feeAmount": 40,
+  "prizePool": "₹3,000",
+  "activityPoints": null,
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": null,
+  "contacts": [
+   {
+    "name": "Ivan",
+    "phone": "9207906542"
+   },
+   {
+    "name": "Devadathan",
+    "phone": "6238463653"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/Tr3EoYu9r3riWvkdA",
+  "tags": [
+   "CAPTURETAKFLAG",
+   "CSE",
+   "CTF",
+   "CyberSecurity"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "root-access-cybersecurity",
+  "title": "Root Access: Cybersecurity",
+  "category": "workshop",
+  "organizer": "Computer Applications",
+  "tagline": "Secure the system. Master the cyber world.",
+  "description": "Department of Computer Applications presents Cybersecurity Workshop, an exciting session to explore the fundamentals of cybersecurity and strengthen your digital security skills!",
+  "sessions": [
+   {
+    "start": "2026-09-25T10:30:00+05:30",
+    "end": "2026-09-25T15:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "MCA Lab 1",
+  "online": false,
+  "feeText": "₹ 50",
+  "feeAmount": 50,
+  "prizePool": null,
+  "activityPoints": "Upto 20",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": null,
+  "contacts": [
+   {
+    "name": "Ashisha S",
+    "phone": "9567360209"
+   },
+   {
+    "name": "Bin",
+    "phone": "9995584436"
+   }
+  ],
+  "spotRegistration": true,
+  "capacity": null,
+  "formLink": "https://forms.gle/Np1GToDUTm8pxTydA",
+  "tags": [
+   "mca"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "ros-2-workshop",
+  "title": "ROS 2 Workshop",
+  "category": "workshop",
+  "organizer": "Electronics & Communication × IEDC",
+  "tagline": "From Code to Robots  Bring Your Ideas to Life!",
+  "description": "EC Department in collaboration with IEDC MACE presents the ROS-2 Workshop. Step into the world of robotics and learn how hardware, software & AI come together with ROS 2!",
+  "sessions": [
+   {
+    "start": "2026-09-25T09:00:00+05:30",
+    "end": "2026-09-25T17:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "Seminar Hall 4",
+  "online": false,
+  "feeText": "Free",
+  "feeAmount": 0,
+  "prizePool": null,
+  "activityPoints": null,
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": null,
+  "contacts": [
+   {
+    "name": "Pranav",
+    "phone": "9446159868"
+   },
+   {
+    "name": "Roshan",
+    "phone": "9526926069"
+   }
+  ],
+  "spotRegistration": true,
+  "capacity": null,
+  "formLink": "https://forms.gle/Qw6PXp66ChpkFMPj7",
+  "tags": [
+   "takshak_26",
+   "ece",
+   "iedc"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "introduction-to-agentic-ai",
+  "title": "Introduction to Agentic AI",
+  "category": "workshop",
+  "organizer": "TinkerHub MACE",
+  "tagline": "Don’t just use AI. Build intelligent agents.",
+  "description": "TinkerHub MACE presents an insightful session introducing the world of Agentic AI and how intelligent AI agents can perform tasks, make decisions and interact with their environment.",
+  "sessions": [
+   {
+    "start": "2026-09-25T09:00:00+05:30",
+    "end": "2026-09-25T12:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "M05",
+  "online": false,
+  "feeText": "Free",
+  "feeAmount": 0,
+  "prizePool": null,
+  "activityPoints": null,
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": "Evin Brijesh",
+  "registrationDeadline": null,
+  "contacts": [
+   {
+    "name": "Ashish",
+    "phone": "7736221140"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/VF9vm5iYawD4RX2s6",
+  "tags": [
+   "tinkerhub"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "image-signal-processing-with-opencv",
+  "title": "Image Signal Processing with OpenCV",
+  "category": "workshop",
+  "organizer": "Electronics & Communication × IEEE",
+  "tagline": null,
+  "description": "EC × IEEE presents a hands-on workshop exploring image processing, digital signal processing concepts and OpenCV through practical applications!",
+  "sessions": [
+   {
+    "start": "2026-09-26T10:00:00+05:30",
+    "end": "2026-09-26T12:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "IT Centre, Founder's Block",
+  "online": false,
+  "feeText": "Members - ₹ 50 | Non-members - ₹ 75",
+  "feeAmount": 50,
+  "prizePool": null,
+  "activityPoints": "Upto 35",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": "25 September 2026",
+  "contacts": [
+   {
+    "name": "Ryan",
+    "phone": "9446108674"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/2kF47ReYcgkLKXv77",
+  "tags": [],
+  "registrationOpen": true
+ },
+ {
+  "slug": "pravaha-vibe-coding",
+  "title": "Pravaha: Vibe Coding",
+  "category": "competition",
+  "organizer": "Computer Applications",
+  "tagline": "Code with the flow. Create without limits.",
+  "description": "Department of Computer Applications presents PRAVAHA, an exciting Vibe Coding experience where creativity meets coding!",
+  "sessions": [
+   {
+    "start": "2026-09-26T10:00:00+05:30",
+    "end": "2026-09-26T13:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "MCA Lab 1",
+  "online": false,
+  "feeText": "₹ 200",
+  "feeAmount": 200,
+  "prizePool": "₹ 12,000",
+  "activityPoints": null,
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": null,
+  "contacts": [
+   {
+    "name": "Fidha Shirin P",
+    "phone": "8304912635"
+   },
+   {
+    "name": "Alen V",
+    "phone": "9946718635"
+   }
+  ],
+  "spotRegistration": true,
+  "capacity": null,
+  "formLink": "https://forms.gle/N14THPkBU4Dhkhr19",
+  "tags": [
+   "mca"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "vr-workshop",
+  "title": "VR Workshop",
+  "category": "workshop",
+  "organizer": "Civil Engineering",
+  "tagline": "Step into the future. Experience beyond reality.",
+  "description": "Department of Civil Engineering presents an immersive Virtual Reality Workshop! Explore the world of VR and discover its applications in engineering and beyond.",
+  "sessions": [
+   {
+    "start": "2026-09-25T09:00:00+05:30",
+    "end": "2026-09-25T12:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "M19",
+  "online": false,
+  "feeText": "Free",
+  "feeAmount": 0,
+  "prizePool": null,
+  "activityPoints": "Upto 25",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": null,
+  "contacts": [
+   {
+    "name": "Helen Kurias",
+    "phone": "9778546483"
+   },
+   {
+    "name": "Anamika Vasu",
+    "phone": "7012305898"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/Cz8yGTZfVuevnJ79A",
+  "tags": [
+   "civil"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "disaster-x",
+  "title": "Disaster X",
+  "category": "competition",
+  "organizer": "Civil Engineering",
+  "tagline": null,
+  "description": "Civil Engineering Department brings you an on-the-spot presentation challenge! Showcase your creativity, technical knowledge and presentation skills.",
+  "sessions": [
+   {
+    "start": "2026-09-26T13:00:00+05:30",
+    "end": "2026-09-26T16:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "PG107",
+  "online": false,
+  "feeText": "Free",
+  "feeAmount": 0,
+  "prizePool": "3k",
+  "activityPoints": "Upto 30",
+  "teamSize": "1 - 3 members",
+  "teamMin": 1,
+  "teamMax": 3,
+  "speaker": null,
+  "registrationDeadline": "25 September 2026, 11:59 PM",
+  "contacts": [
+   {
+    "name": "Gouri Saji",
+    "phone": "8590805877"
+   },
+   {
+    "name": "Anna Joby George",
+    "phone": "7593046501"
+   },
+   {
+    "name": "Basil Dani",
+    "phone": "9446750539"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/DZxstkb3GN2tG1sP7",
+  "tags": [
+   "civil"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "arch-making-competition",
+  "title": "Arch Making Competition",
+  "category": "competition",
+  "organizer": "Civil Engineering",
+  "tagline": null,
+  "description": "Department of Civil Engineering brings you a hands-on Arch Building Competition! Build an arch using sand and stones, showcase your creativity and put your construction skills to the test!",
+  "sessions": [
+   {
+    "start": "2026-09-26T13:00:00+05:30",
+    "end": "2026-09-26T16:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "Concrete Laboratory",
+  "online": false,
+  "feeText": "Free",
+  "feeAmount": 0,
+  "prizePool": "₹ 2,500",
+  "activityPoints": "Upto 40",
+  "teamSize": "3–5 members",
+  "teamMin": 3,
+  "teamMax": 5,
+  "speaker": null,
+  "registrationDeadline": "25 September 2026",
+  "contacts": [
+   {
+    "name": "Helen Kurias",
+    "phone": "9778546483"
+   },
+   {
+    "name": "Thoufeeq",
+    "phone": "7994289727"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/gN9J9Y8jFdkRDXs57",
+  "tags": [],
+  "registrationOpen": true
+ },
+ {
+  "slug": "arduino-physical-ai-workshop",
+  "title": "Arduino & Physical AI Workshop",
+  "category": "workshop",
+  "organizer": "AISA MACE",
+  "tagline": null,
+  "description": "AISA presents an exciting hands-on workshop introducing the fundamentals of Adreno and Physical AI, exploring intelligent systems and their real-world applications!",
+  "sessions": [
+   {
+    "start": "2026-09-26T09:00:00+05:30",
+    "end": "2026-09-26T12:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "M113",
+  "online": false,
+  "feeText": "₹ 120",
+  "feeAmount": 120,
+  "prizePool": null,
+  "activityPoints": "Upto 25",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": "Madhav K Anil",
+  "registrationDeadline": "26 September 2026",
+  "contacts": [
+   {
+    "name": "Megha",
+    "phone": "9074046004"
+   },
+   {
+    "name": "Aneeta",
+    "phone": "8156900613"
+   }
+  ],
+  "spotRegistration": true,
+  "capacity": null,
+  "formLink": "https://forms.gle/XgqWfzaisGKGxv9dA",
+  "tags": [
+   "aisa"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "telescope-workshop",
+  "title": "Telescope Workshop",
+  "category": "workshop",
+  "organizer": "AISA MACE",
+  "tagline": null,
+  "description": "AISA presents an exciting hands-on workshop introducing the basics of telescopes, celestial objects and the wonders of space!",
+  "sessions": [
+   {
+    "start": "2026-09-26T09:00:00+05:30",
+    "end": "2026-09-26T11:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "PTA Seminar Hall",
+  "online": false,
+  "feeText": "₹ 70",
+  "feeAmount": 70,
+  "prizePool": null,
+  "activityPoints": "Upto 25",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": "Basil Cibi",
+  "registrationDeadline": "25 September 2026",
+  "contacts": [
+   {
+    "name": "Adrinath",
+    "phone": "8547387709"
+   },
+   {
+    "name": "Vishnu",
+    "phone": "9400317290"
+   }
+  ],
+  "spotRegistration": true,
+  "capacity": null,
+  "formLink": "https://forms.gle/jAmcb1d9P3UYumx5A",
+  "tags": [
+   "aisa"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "web-arena-web-design-with-ai",
+  "title": "Web Arena: Web Design with AI",
+  "category": "competition",
+  "organizer": "Computer Applications",
+  "tagline": "Design smarter. Build faster. Let AI shape the web.",
+  "description": "Department of Computer Applications presents WEB ARENA – Web Designing with AI, an exciting challenge where creativity meets AI-powered web design!",
+  "sessions": [
+   {
+    "start": "2026-09-26T14:00:00+05:30",
+    "end": "2026-09-26T16:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "MCA Lab 2",
+  "online": false,
+  "feeText": "₹ 100",
+  "feeAmount": 100,
+  "prizePool": "₹ 10,000",
+  "activityPoints": null,
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": null,
+  "contacts": [
+   {
+    "name": "Adithya Kumar Mishra",
+    "phone": "6282301120"
+   },
+   {
+    "name": "Apsara A",
+    "phone": "8157029563"
+   }
+  ],
+  "spotRegistration": true,
+  "capacity": null,
+  "formLink": "https://forms.gle/v7js92oQeNTYMf4W7",
+  "tags": [
+   "mca"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "vr-world",
+  "title": "VR World",
+  "category": "workshop",
+  "organizer": "Electronics & Communication × ENCIDE",
+  "tagline": null,
+  "description": "In collaboration with ECE ENCIDE MACE , experience the world of Virtual & Augmented Reality through a hands-on workshop with practical sessions!",
+  "sessions": [
+   {
+    "start": "2026-09-25T13:30:00+05:30",
+    "end": "2026-09-25T16:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "L09",
+  "online": false,
+  "feeText": "₹ 299",
+  "feeAmount": 299,
+  "prizePool": null,
+  "activityPoints": null,
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": "24 September 2026",
+  "contacts": [
+   {
+    "name": "Ryan",
+    "phone": "9446108674"
+   },
+   {
+    "name": "Augustine",
+    "phone": "9447979882"
+   }
+  ],
+  "spotRegistration": true,
+  "capacity": 100,
+  "formLink": "https://forms.gle/JMs6QpYTuMvtqX3C7",
+  "tags": [
+   "encide",
+   "ece"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "unity-game-development-workshop",
+  "title": "Unity Game Development Workshop",
+  "category": "workshop",
+  "organizer": "GDC MACE",
+  "tagline": "Every great game begins with a single idea.",
+  "description": "GDC MACE presents an exciting workshop on Unity Game Development! Learn the fundamentals of game development and explore the world of creating immersive games.",
+  "sessions": [
+   {
+    "start": "2026-09-25T13:30:00+05:30",
+    "end": "2026-09-25T15:30:00+05:30"
+   }
+  ],
+  "timeNote": "Starts 1:30 PM",
+  "venue": "Online",
+  "online": true,
+  "feeText": "₹ 120",
+  "feeAmount": 120,
+  "prizePool": null,
+  "activityPoints": "Upto 10",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": null,
+  "contacts": [
+   {
+    "name": "Aymen",
+    "phone": "6235019603"
+   },
+   {
+    "name": "Firoz",
+    "phone": "9188048513"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/BbhLBVWMGBarym6Y9",
+  "tags": [
+   "gdc"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "video-editing-workshop",
+  "title": "Video Editing Workshop",
+  "category": "workshop",
+  "organizer": "Game Development Club",
+  "tagline": null,
+  "description": "Game Development Club brings you an exciting hands-on Video Editing Workshop! Learn the basics of video editing, explore creative techniques, and bring your ideas to life!",
+  "sessions": [
+   {
+    "start": "2026-09-26T11:00:00+05:30",
+    "end": "2026-09-26T12:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "Seminar Hall 2",
+  "online": false,
+  "feeText": "₹ 140",
+  "feeAmount": 140,
+  "prizePool": null,
+  "activityPoints": "Upto 20",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": "25 September 2026",
+  "contacts": [
+   {
+    "name": "Sinan Rahman",
+    "phone": "7034168095"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/B5YqUfZjYkNgpRXX7",
+  "tags": [],
+  "registrationOpen": true
+ },
+ {
+  "slug": "figma-workshop",
+  "title": "Figma Workshop",
+  "category": "workshop",
+  "organizer": "GDC MACE",
+  "tagline": "Great games begin with great ideas, and great ideas begin with imagination.",
+  "description": "GDC MACE presents an exciting workshop on Figma! Learn the essentials of UI/UX design and explore your creativity through hands-on design.",
+  "sessions": [
+   {
+    "start": "2026-09-26T09:00:00+05:30",
+    "end": "2026-09-26T10:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "Online",
+  "online": true,
+  "feeText": "₹ 120",
+  "feeAmount": 120,
+  "prizePool": null,
+  "activityPoints": "Up to 20",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": null,
+  "contacts": [
+   {
+    "name": "Aswanth",
+    "phone": "9037630066"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/JRNS2VbMjCeXaucx6",
+  "tags": [
+   "gdc"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "code-rush",
+  "title": "Code Rush",
+  "category": "competition",
+  "organizer": "Computer Applications",
+  "tagline": "Code. Compete. Conquer.",
+  "description": "Department of Computer Applications presents an exciting coding competition! Put your programming skills to the test, solve challenges and compete for the top spot!",
+  "sessions": [
+   {
+    "start": "2026-09-25T11:00:00+05:30",
+    "end": "2026-09-25T13:30:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "MCA Lab 2",
+  "online": false,
+  "feeText": "₹ 100",
+  "feeAmount": 100,
+  "prizePool": "₹ 8,000",
+  "activityPoints": "Upto 20",
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": null,
+  "contacts": [
+   {
+    "name": "Ajay Kumar K S",
+    "phone": "8590326763"
+   },
+   {
+    "name": "Alfiya",
+    "phone": "8891164352"
+   }
+  ],
+  "spotRegistration": true,
+  "capacity": null,
+  "formLink": "https://forms.gle/iX5JisTNKDV44LgSA",
+  "tags": [
+   "mca"
+  ],
+  "registrationOpen": true
+ },
+ {
+  "slug": "upthrust-competition",
+  "title": "Upthrust Competition",
+  "category": "competition",
+  "organizer": "Civil Engineering",
+  "tagline": null,
+  "description": "Department of Civil Engineering presents a fun hands-on challenge where teams build an aluminium foil boat and test how many coins it can carry while staying afloat and stable!",
+  "sessions": [
+   {
+    "start": "2026-09-26T09:00:00+05:30",
+    "end": "2026-09-26T12:00:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "PG 109",
+  "online": false,
+  "feeText": "Free",
+  "feeAmount": 0,
+  "prizePool": "₹ 2,500",
+  "activityPoints": "40",
+  "teamSize": "Maximum 3 members",
+  "teamMin": 1,
+  "teamMax": 3,
+  "speaker": null,
+  "registrationDeadline": null,
+  "contacts": [
+   {
+    "name": "Jis",
+    "phone": "7902621566"
+   },
+   {
+    "name": "Sidhardh",
+    "phone": "8086039776"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/8YkwvPpjdRZUAa5E7",
+  "tags": [],
+  "registrationOpen": true
+ },
+ {
+  "slug": "autoverse-mobility-quiz",
+  "title": "AutoVerse: Mobility Quiz",
+  "category": "competition",
+  "organizer": "Mechanical Engineering",
+  "tagline": "Fuel your curiosity. Race your way through mobility!",
+  "description": "The Mechanical Engineering Department presents a thrilling Mobility Quiz! Test your automotive knowledge and compete with your team!",
+  "sessions": [
+   {
+    "start": "2026-09-26T13:30:00+05:30",
+    "end": "2026-09-26T15:30:00+05:30"
+   }
+  ],
+  "timeNote": null,
+  "venue": "PTA Seminar Hall",
+  "online": false,
+  "feeText": "₹ 180 / team",
+  "feeAmount": 180,
+  "prizePool": "₹ 5k",
+  "activityPoints": "Up to 20",
+  "teamSize": "Max 2",
+  "teamMin": 1,
+  "teamMax": 2,
+  "speaker": null,
+  "registrationDeadline": "25 September 2026",
+  "contacts": [
+   {
+    "name": "Mazin",
+    "phone": "7594026160"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": "https://forms.gle/3CNgFFGJfHzgGeEG8",
+  "tags": [],
+  "registrationOpen": true
+ },
+ {
+  "slug": "technovate",
+  "title": "Technovate",
+  "category": "event",
+  "organizer": "Electronics & Communication",
+  "tagline": "Explore. Get inspired. Innovate.",
+  "description": "Explore innovative electronic projects by MACE students, designed to inspire curiosity, creativity and learning among students and teachers.",
+  "sessions": [
+   {
+    "start": "2026-09-25T09:00:00+05:30",
+    "end": "2026-09-25T17:00:00+05:30"
+   },
+   {
+    "start": "2026-09-26T09:00:00+05:30",
+    "end": "2026-09-26T17:00:00+05:30"
+   }
+  ],
+  "timeNote": "Full day",
+  "venue": "L08",
+  "online": false,
+  "feeText": "",
+  "feeAmount": null,
+  "prizePool": null,
+  "activityPoints": null,
+  "teamSize": null,
+  "teamMin": null,
+  "teamMax": null,
+  "speaker": null,
+  "registrationDeadline": null,
+  "contacts": [
+   {
+    "name": "Anushree",
+    "phone": "7561853380"
+   },
+   {
+    "name": "Haritheerth",
+    "phone": "9383429369"
+   }
+  ],
+  "spotRegistration": false,
+  "capacity": null,
+  "formLink": null,
+  "tags": [
+   "technovate"
+  ],
+  "registrationOpen": true
+ }
+]

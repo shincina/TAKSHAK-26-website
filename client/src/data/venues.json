@@ -1,0 +1,333 @@
+[
+ {
+  "key": "it-centre",
+  "label": "IT Centre / CAD Lab",
+  "block": "Founders' Block",
+  "aliases": [
+   "IT Center CAD Lab",
+   "IT Centre, Founder's Block"
+  ],
+  "x": 140,
+  "y": 125,
+  "lat": 10.055258,
+  "lng": 76.61727
+ },
+ {
+  "key": "m05",
+  "label": "M05",
+  "block": "M Block",
+  "aliases": [],
+  "x": 430,
+  "y": 100,
+  "lat": 10.055406,
+  "lng": 76.618865
+ },
+ {
+  "key": "m19",
+  "label": "M19",
+  "block": "M Block",
+  "aliases": [],
+  "x": 478,
+  "y": 100,
+  "lat": 10.055406,
+  "lng": 76.619129
+ },
+ {
+  "key": "m111",
+  "label": "M111",
+  "block": "M Block",
+  "aliases": [],
+  "x": 526,
+  "y": 100,
+  "lat": 10.055406,
+  "lng": 76.619393
+ },
+ {
+  "key": "m113",
+  "label": "M113",
+  "block": "M Block",
+  "aliases": [],
+  "x": 574,
+  "y": 100,
+  "lat": 10.055406,
+  "lng": 76.619657
+ },
+ {
+  "key": "m119",
+  "label": "M119",
+  "block": "M Block",
+  "aliases": [],
+  "x": 430,
+  "y": 148,
+  "lat": 10.055121,
+  "lng": 76.618865
+ },
+ {
+  "key": "m123",
+  "label": "M123",
+  "block": "M Block",
+  "aliases": [],
+  "x": 478,
+  "y": 148,
+  "lat": 10.055121,
+  "lng": 76.619129
+ },
+ {
+  "key": "l03",
+  "label": "L03",
+  "block": "L Block",
+  "aliases": [],
+  "x": 700,
+  "y": 100,
+  "lat": 10.055406,
+  "lng": 76.62035
+ },
+ {
+  "key": "l08",
+  "label": "L08",
+  "block": "L Block",
+  "aliases": [],
+  "x": 748,
+  "y": 100,
+  "lat": 10.055406,
+  "lng": 76.620614
+ },
+ {
+  "key": "l09",
+  "label": "L09",
+  "block": "L Block",
+  "aliases": [],
+  "x": 796,
+  "y": 100,
+  "lat": 10.055406,
+  "lng": 76.620878
+ },
+ {
+  "key": "l108",
+  "label": "L108",
+  "block": "L Block",
+  "aliases": [],
+  "x": 844,
+  "y": 100,
+  "lat": 10.055406,
+  "lng": 76.621142
+ },
+ {
+  "key": "l203-204",
+  "label": "L203 & L204",
+  "block": "L Block",
+  "aliases": [
+   "L203, L204"
+  ],
+  "x": 700,
+  "y": 148,
+  "lat": 10.055121,
+  "lng": 76.62035
+ },
+ {
+  "key": "l314",
+  "label": "L314",
+  "block": "L Block",
+  "aliases": [],
+  "x": 760,
+  "y": 148,
+  "lat": 10.055121,
+  "lng": 76.62068
+ },
+ {
+  "key": "digital-lab",
+  "label": "Digital Electronics Lab",
+  "block": "ECE Block",
+  "aliases": [
+   "Digital Electronics Lab, ECE Block"
+  ],
+  "x": 130,
+  "y": 290,
+  "lat": 10.054278,
+  "lng": 76.617215
+ },
+ {
+  "key": "mca-lab-1",
+  "label": "MCA Lab 1",
+  "block": "MCA Block",
+  "aliases": [],
+  "x": 370,
+  "y": 275,
+  "lat": 10.054367,
+  "lng": 76.618535
+ },
+ {
+  "key": "mca-lab-2",
+  "label": "MCA Lab 2",
+  "block": "MCA Block",
+  "aliases": [],
+  "x": 425,
+  "y": 275,
+  "lat": 10.054367,
+  "lng": 76.618837
+ },
+ {
+  "key": "mca-seminar",
+  "label": "MCA Seminar Hall",
+  "block": "MCA Block",
+  "aliases": [],
+  "x": 470,
+  "y": 315,
+  "lat": 10.05413,
+  "lng": 76.619085
+ },
+ {
+  "key": "cs-lab",
+  "label": "CS Lab",
+  "block": "CSE Block",
+  "aliases": [],
+  "x": 640,
+  "y": 290,
+  "lat": 10.054278,
+  "lng": 76.62002
+ },
+ {
+  "key": "pg107",
+  "label": "PG 107",
+  "block": "Civil Block",
+  "aliases": [
+   "PG107"
+  ],
+  "x": 860,
+  "y": 268,
+  "lat": 10.054409,
+  "lng": 76.62123
+ },
+ {
+  "key": "pg109",
+  "label": "PG 109",
+  "block": "Civil Block",
+  "aliases": [
+   "PG109"
+  ],
+  "x": 910,
+  "y": 268,
+  "lat": 10.054409,
+  "lng": 76.621505
+ },
+ {
+  "key": "concrete-lab",
+  "label": "Concrete Laboratory",
+  "block": "Civil Block",
+  "aliases": [],
+  "x": 885,
+  "y": 312,
+  "lat": 10.054147,
+  "lng": 76.621368
+ },
+ {
+  "key": "seminar-2",
+  "label": "Seminar Hall 2",
+  "block": "Seminar Complex",
+  "aliases": [
+   "Seminar Hall"
+  ],
+  "x": 110,
+  "y": 445,
+  "lat": 10.053358,
+  "lng": 76.617105
+ },
+ {
+  "key": "seminar-4",
+  "label": "Seminar Hall 4",
+  "block": "Seminar Complex",
+  "aliases": [
+   "SH 4"
+  ],
+  "x": 170,
+  "y": 445,
+  "lat": 10.053358,
+  "lng": 76.617435
+ },
+ {
+  "key": "pta",
+  "label": "PTA Seminar Hall",
+  "block": "Seminar Complex",
+  "aliases": [],
+  "x": 230,
+  "y": 445,
+  "lat": 10.053358,
+  "lng": 76.617765
+ },
+ {
+  "key": "tnp",
+  "label": "TNP Seminar Hall",
+  "block": "Seminar Complex",
+  "aliases": [],
+  "x": 290,
+  "y": 445,
+  "lat": 10.053358,
+  "lng": 76.618095
+ },
+ {
+  "key": "campus",
+  "label": "Campus grounds",
+  "block": "Central lawn",
+  "aliases": [
+   "MACE Campus"
+  ],
+  "x": 510,
+  "y": 430,
+  "lat": 10.053447,
+  "lng": 76.619305
+ },
+ {
+  "key": "court-bb1",
+  "label": "Basketball Court 1",
+  "block": "Sports Courts",
+  "aliases": [],
+  "x": 680,
+  "y": 435,
+  "lat": 10.053417,
+  "lng": 76.62024
+ },
+ {
+  "key": "court-bb3",
+  "label": "Basketball Court 3",
+  "block": "Sports Courts",
+  "aliases": [],
+  "x": 740,
+  "y": 435,
+  "lat": 10.053417,
+  "lng": 76.62057
+ },
+ {
+  "key": "court-badminton",
+  "label": "Badminton Court",
+  "block": "Sports Courts",
+  "aliases": [
+   "Badminton Court, MACE"
+  ],
+  "x": 800,
+  "y": 435,
+  "lat": 10.053417,
+  "lng": 76.6209
+ },
+ {
+  "key": "parking",
+  "label": "Principal's Parking Lot",
+  "block": "Parking",
+  "aliases": [],
+  "x": 510,
+  "y": 578,
+  "lat": 10.052568,
+  "lng": 76.619305
+ },
+ {
+  "key": "arena",
+  "label": "Open-air arena",
+  "block": "Sports Courts",
+  "aliases": [
+   "Open-air arena (venue TBA)"
+  ],
+  "x": 900,
+  "y": 525,
+  "lat": 10.052883,
+  "lng": 76.62145
+ }
+]
