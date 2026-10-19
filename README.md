@@ -19,8 +19,8 @@ npm install
 npm run dev                 # http://localhost:5173  (proxies /api to :5000)
 ```
 
-For production, build the client (`npm run build`) and set `VITE_API_URL` to your API's address; set `CLIENT_ORIGIN` on the server to the website's address.
-Without the API running, the site still shows the bundled event list (read-only preview).
+For production, build the client (`npm run build`) and set `VITE_API_URL` to your API's address; set `CLIENT_ORIGIN` on the server to the website's address. Run `npm run seed` once against the production `MONGODB_URI` to load events and venues.
+Without the API running, or if the API has no events yet, the site shows the bundled event list as a read-only preview.
 
 ## What is where
 

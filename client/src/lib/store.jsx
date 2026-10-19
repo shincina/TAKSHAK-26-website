@@ -22,6 +22,7 @@ export function Provider({ children }) {
     try {
       const [ev, ve] = await Promise.all([api('/events'), api('/events/venues')]);
       if (ev.length) { setEvents(ev); setDemo(false); }
+      else { setEvents(offlineEvents); setDemo(true); }
       if (ve.length) setVenues(ve);
     } catch (e) { if (e instanceof ApiDown) setDemo(true); }
   }, []);

@@ -1,10 +1,14 @@
 import { Router } from 'express';
 import crypto from 'crypto';
+import mongoose from 'mongoose';
 import { Event, Registration } from '../models/index.js';
 import { requireAuth, requireAdmin } from '../middleware/auth.js';
 
 const r = Router();
 const ALPHABET = 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789';
+const findEvent = (idOrSlug) => mongoose.isValidObjectId(idOrSlug)
+  ? Event.findById(idOrSlug)
+  : Event.findOne({ slug: idOrSlug });
 const lastEnd = (e) => Math.max(...e.sessions.map((s) => +new Date(s.end)));
 const firstStart = (e) => Math.min(...e.sessions.map((s) => +new Date(s.start)));
 
@@ -42,7 +46,7 @@ const fail = (res) => (e) => res.status(e.status || (e.code === 11000 ? 409 : 50
 
 r.post('/events/:id/register', requireAuth, async (req, res) => {
   try {
-    const event = await Event.findById(req.params.id);
+    const event = await findEvent(req.params.id);
     if (!event) return res.status(404).json({ error: 'Event not found.' });
     const u = req.user;
     const reg = await createRegistration({
@@ -133,4 +137,3 @@ r.post('/admin/events/:id/spot', ...admin, async (req, res) => {
 });
 
 export default r;
-
