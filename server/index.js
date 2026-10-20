@@ -7,8 +7,16 @@ import eventRoutes from './routes/events.js';
 import regRoutes from './routes/registrations.js';
 
 const app = express();
-app.use(cors({ origin: (process.env.CLIENT_ORIGIN || 'http://localhost:5173').split(',') }));
-app.use(express.json({ limit: '1mb' }));
+app.use(cors({
+  origin: (origin, callback) => {
+    if (!origin || origin.endsWith('.vercel.app') || origin.includes('localhost')) {
+      callback(null, true);
+    } else {
+      callback(new Error('Not allowed by CORS'));
+    }
+  },
+  credentials: true
+}));app.use(express.json({ limit: '1mb' }));
 
 app.get('/api/health', (_req, res) => res.json({ ok: true, fest: "TAKSHAK'26" }));
 app.use('/api/auth', authRoutes);
